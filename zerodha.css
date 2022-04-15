@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    font-family: 'Sarabun', sans-serif;
+}
+.menu{
+    text-decoration: none;
+    color:rgb(102, 102, 102);
+    padding-right: 13%;
+    font-size: 15px;
+    font-weight: 400;
+}
+.icon{
+    width: 18px;
+  height: 2px;
+  background-color: rgb(66, 66, 66);
+  margin: 4px 0;
+}
+.price{
+    border: 1px solid rgb(182, 175, 175);
+    float: left;
+    width:110%;
+    height:10em;
+    text-align: center;
+    padding: 5%;
+}
+.footer-list{
+    text-decoration: none;
+    color:rgb(114, 110, 110);
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 32px;
+    
+}
+.footerpara{
+    color: rgb(155, 155, 155);
+    font-family: "Inter", serif;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 18.7167px;
+
+}
+
+.col-2:hover{
+    cursor: pointer;    
+}
